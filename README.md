@@ -1,5 +1,5 @@
 # AmazonClone
-This is a project that replicates the look and feel of the Amazon website using HTML and CSS. It serves as a demonstration of front-end web development skills and showcases your ability to create a visually appealing web page.
+This is a project that replicates the look and feel of the Amazon website using HTML and CSS. It serves as a demonstration of front-end web development skills and showcases  ability to create a visually appealing web page.
 
 ## Features
 
