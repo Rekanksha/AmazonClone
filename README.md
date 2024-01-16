@@ -1,3 +1,5 @@
+HERE ARE THE PICTURES OF AMAZON CLONE
+<img width="1069" alt="image" src="https://github.com/Rekanksha/AmazonClone/assets/138969170/31eba508-8956-4bdc-9b87-33fb404b0fb4">
 # AmazonClone
 This is a project that replicates the look and feel of the Amazon website using HTML and CSS. It serves as a demonstration of front-end web development skills and showcases  ability to create a visually appealing web page.
 
